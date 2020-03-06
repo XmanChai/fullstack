@@ -15,3 +15,4 @@
 * remote... -> ctrl + k, ctrl + u
 * commit... -> ctrl + k, ctrl + m
 * push...  -> ctrl + k, ctrl + p
+* branches.. -> ctrl + k, b
